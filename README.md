@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kemalaydogans
 - 🌱 I’m currently learning python
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html-CSS
 
 <!---
 kemalaydogans/kemalaydogans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
