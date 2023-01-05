@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @kemalaydogans
-- 🌱 I’m currently learning Go!
 
 
 
